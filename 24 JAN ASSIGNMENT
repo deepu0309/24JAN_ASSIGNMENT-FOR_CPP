@@ -1,0 +1,33 @@
+NOTE : TO SUBMIT YOUR RESPONSE THE GOOGLE FORM LINK IS HERE!!!!
+GOOGLE FORM LINK::  https://forms.gle/7q8ycRvnS5RmXRQc8
+SUBMIT IT BY:     25 JAN  3PM
+NAME YOUR REPOSITORY AS THE GIVEN FORMAT
+
+
+
+
+
+
+24 Jan Assignment
+
+1.	Write a program that creates a class called "Student" with the following data members:
+name (string)
+age (int)
+grade (double)
+In the main function, create an instance of the Student class and initialize its data members. Then, open a file for writing and write the contents of the Student object to the file.
+
+2.	Write a program that reads the contents of a file containing Student objects and prints them to the console. The program should open the file, read the Student objects one at a time, and print their name, age, and grade to the console.
+     
+     
+3     Create a class called "Book" with the following data members:
+title (string)
+author (string)
+ISBN (string)
+price (double)
+stock (int)
+In the main function, create an instance of the Book class and initialize its data members. Then, use the fstream library to open a file for writing and write the contents of the Book object to the file in binary format.
+
+
+4     Write a program that reads the contents of a file containing Book objects and prints them to the console. The program should use the fstream library to open the file, read the Book objects one at a time, and print their title, author, ISBN, price and stock to the console.
+
+
